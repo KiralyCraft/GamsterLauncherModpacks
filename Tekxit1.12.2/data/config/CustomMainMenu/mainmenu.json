@@ -1,0 +1,268 @@
+{
+    "images":
+    {
+        "transparent":
+        {
+            "image" : "menuassets:bg_menu.png",
+            "posX" : -50,
+            "posY" : -50,
+            "width" : 100,
+            "height" : 160,
+            "alignment" : "center"
+        },
+       
+        "minecraft":
+        {
+            "image" : "menuassets:logo.png",
+            "posX" : -75,
+            "posY" : -130,
+            "width" : 150,
+            "height" : 89,
+            "alignment" : "center"
+        }
+    },
+   
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Singleplayer",
+            "posX" : -50,
+            "posY" : -50,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+       
+        "multiplayer":
+        {
+            "text" : "Multiplayer",
+            "posX" : -50,
+            "posY" : -30,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+       
+        "mods":
+        {
+            "text" : "Loaded Mods",
+            "posX" : -50,
+            "posY" : -10,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+           
+        "options":
+        {
+            "text" : "Options",
+            "posX" : -50,
+            "posY" : 10,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+       
+        "language":
+        {
+            "text" : "Language",
+            "posX" : -50,
+            "posY" : 30,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+       
+        "quit":
+        {
+            "text" : "Quit Game",
+            "posX" : -50,
+            "posY" : 50,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+                "type" : "quit"
+            }
+        },
+		
+		"discord":
+        {
+            "text" : "Discord",
+            "posX" : -50,
+            "posY" : 70,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+                "type" : "openLink",
+                "link" : "https://discord.gg/yN73ej7"
+            }
+        },
+		
+		"reddit":
+        {
+            "text" : "Reddit",
+            "posX" : -50,
+            "posY" : 90,
+            "width" : 50,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+                "type" : "openLink",
+                "link" : "https://www.reddit.com/r/Tekxit/"
+            }
+        },
+		
+		"technic":
+        {
+            "text" : "Technic",
+            "posX" : 0,
+            "posY" : 90,
+            "width" : 50,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+                "type" : "openLink",
+                "link" : "https://www.technicpack.net/modpack/tekxit-3-official-1122.1253751"
+            }
+        }
+    },
+   
+    "labels":
+	{
+		"thanks":
+        {
+            "text" : "Thank you for playing #username#.",
+            "posX" : 2,
+            "posY" : -30,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+		
+	    "version":
+        {
+            "text" : "The current Forge version is #forgeversion#.",
+            "posX" : 2,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+		
+        "loaded":
+        {
+            "text" : "There are currently #modsloaded# mods loaded.",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        
+        "tekxit":
+        {
+            "text" : "Tekxit 3 by Slayer5934",
+            "posX" : -2,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_right",
+			"anchor" : "end"
+        },
+		
+		"mojang":
+		{
+			"text" : "Copyright Mojang AB. Do not distribute!",
+			"posX" : -2,
+			"posY" : -10,
+			"color" : -1,
+			"alignment" : "bottom_right",
+			"anchor" : "end"
+		}
+    },
+   
+    "other":
+    { 
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["menuassets:bg1.png","menuassets:bg2.png","menuassets:bg3.png","menuassets:bg4.png","menuassets:bg5.png","menuassets:bg6.png","menuassets:bg7.png","menuassets:bg8.png","menuassets:bg9.png","menuassets:bg10.png","menuassets:bg11.png"],
+                "displayDuration" : 100,
+                "fadeDuration" : 40
+            }
+        },
+		"splash-text":
+        {
+            "posX" : 75,
+            "posY" : -75,
+            "color" : -256,
+            "alignment" : "center"
+        }
+    }
+}

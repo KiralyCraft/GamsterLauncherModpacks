@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "CultTreasure",
+  "items": [
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 45,
+      "item": {
+        "id": "ic2:itemmisc",
+        "damage": 52,
+        "count": 1
+      }
+    },
+    {
+      "weight": 60.84366989135742,
+      "min": 1,
+      "max": 40,
+      "item": {
+        "id": "minecraft:iron_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 30.87596893310547,
+      "min": 1,
+      "max": 28,
+      "item": {
+        "id": "minecraft:diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 30.87596893310547,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "hexxitgear:hexical_diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 30.87596893310547,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "minecraft:obsidian",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 30.87596893310547,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "minecraft:diamond_block",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 4.910394668579102,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:sojourner_staff",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 9.797295570373535,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "xreliquary:interdiction_torch",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 4.910394668579102,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xreliquary:lantern_of_paranoia",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 5.547300815582275,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bibliocraft:compass",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 4.6146769523620605,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bibliocraft:biblioglasses",
+        "damage": 2,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

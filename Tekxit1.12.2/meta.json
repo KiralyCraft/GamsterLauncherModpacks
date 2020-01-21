@@ -1,0 +1,1292 @@
+{
+  "version": [
+    {
+      "path": "Tekxit\\Tekxit.jar",
+      "sha1": "46975E43CBCC23625094C0E6A9A76CEB449ECE92"
+    },
+    {
+      "path": "Tekxit\\Tekxit.json",
+      "sha1": "16B4DC801F63A05B7A0C32BCBBFBFDABA7FA402C"
+    }
+  ],
+  "libraries": [
+    {
+      "path": "net\\minecraftforge\\forge\\1.12.2-14.23.5.2847\\forge-1.12.2-14.23.5.2847.jar",
+      "sha1": "9D57AFB4542093C1402416589B7279DC4C27D15D"
+    }
+  ],
+  "data": [
+    {
+      "path": "config\\animania.cfg",
+      "sha1": "7F5BE155991331023A93484841B73BA6EE6C9C24"
+    },
+    {
+      "path": "config\\appleskin.cfg",
+      "sha1": "86715DA38DF9C9446EF1C97E02D49325FC1F41E1"
+    },
+    {
+      "path": "config\\AppliedEnergistics2\\AppliedEnergistics2.cfg",
+      "sha1": "9AEE44F2569CAEF842306D4AAEA1881CF1EA3503"
+    },
+    {
+      "path": "config\\AppliedEnergistics2\\CustomRecipes.cfg",
+      "sha1": "6BE0C85067970044CFAB03739C7C803E3443118E"
+    },
+    {
+      "path": "config\\AppliedEnergistics2\\Facades.cfg",
+      "sha1": "DBF761B122EFCD3124E98D3BAF9A785A0571D578"
+    },
+    {
+      "path": "config\\AppliedEnergistics2\\VersionChecker.cfg",
+      "sha1": "0E1D466BC7C37B7616CD728845EA11939984237E"
+    },
+    {
+      "path": "config\\attributefix.cfg",
+      "sha1": "B5FDE5302240ABFBA4DDBE5968B8F1C5959C9889"
+    },
+    {
+      "path": "config\\backpack.cfg",
+      "sha1": "465A5EBD7C35132AF156C306EFAC80865B47CA70"
+    },
+    {
+      "path": "config\\BasicNetherOres\\BasicNetherOres.cfg",
+      "sha1": "9A79C64093AF6E139FEB73521597C52EE21D6E31"
+    },
+    {
+      "path": "config\\battletowers.cfg",
+      "sha1": "73E54D03F1BF4469B1429A273986CFACCD79F7DE"
+    },
+    {
+      "path": "config\\baubles.cfg",
+      "sha1": "E07CEAEDBCD81186952B55680E9BC992409BB4B3"
+    },
+    {
+      "path": "config\\bibliocraft.cfg",
+      "sha1": "37BDDC2C5EC2D9337C4BFA97851FD1DD8D868B40"
+    },
+    {
+      "path": "config\\bookshelf.cfg",
+      "sha1": "7B3F348FFB61D007EF14732593E91BB379E367BC"
+    },
+    {
+      "path": "config\\botania.cfg",
+      "sha1": "FF0EE34A756D7D6DF1284844C256AD5200A0FBFC"
+    },
+    {
+      "path": "config\\buildcraft\\detailed.properties",
+      "sha1": "B1953B2533AAD8E83E8955A2FBB871999BE51F9E"
+    },
+    {
+      "path": "config\\buildcraft\\main.cfg",
+      "sha1": "BB4593CB255B0A4096FF700A74FCE32BDD7BF07E"
+    },
+    {
+      "path": "config\\buildcraft\\objects.cfg",
+      "sha1": "FC976CA92CF7363E1E9EF4A420EB78E940272031"
+    },
+    {
+      "path": "config\\cfm.cfg",
+      "sha1": "FFEE4DDF9A99DBFFB7E68CA47C122159D7B0E80A"
+    },
+    {
+      "path": "config\\chesttransporter.cfg",
+      "sha1": "549B06EA4B233BBB5AD7D8C9AABAE0BA7D158371"
+    },
+    {
+      "path": "config\\chisel.cfg",
+      "sha1": "6AAF3AD993708DA67879106D66F8786BF1275EFB"
+    },
+    {
+      "path": "config\\chococraft.cfg",
+      "sha1": "947C6299EB739D8F4DA5C36E2C8AD5AEC7C750D7"
+    },
+    {
+      "path": "config\\codechicken\\supporters.json",
+      "sha1": "6442C114DCB278ED10D7BDB4797F9C73D0F48D81"
+    },
+    {
+      "path": "config\\codechicken\\supporters.marker",
+      "sha1": "008B2A6BF231CAD389F06E6E33229C8C21A969C6"
+    },
+    {
+      "path": "config\\codechickenlib.cfg",
+      "sha1": "0F8D9D5C583E9A8262830117A558CB2728D86C48"
+    },
+    {
+      "path": "config\\cofh\\core\\client.cfg",
+      "sha1": "5F3213654F8B13A3D43454F4311BDACC2F160D7A"
+    },
+    {
+      "path": "config\\cofh\\core\\common.cfg",
+      "sha1": "C1B5C4AB71FE2FF30B94460DBA9679F4CCDAC5D3"
+    },
+    {
+      "path": "config\\cofh\\core\\friends.cfg",
+      "sha1": "DA39A3EE5E6B4B0D3255BFEF95601890AFD80709"
+    },
+    {
+      "path": "config\\cofh\\redstonearsenal\\client.cfg",
+      "sha1": "98AC43460107C3DE496ABFDF80E22C1A8403FAB8"
+    },
+    {
+      "path": "config\\cofh\\redstonearsenal\\common.cfg",
+      "sha1": "1AD8EC28A1536E7E3E90F5ABA7DD07B1AD29F65D"
+    },
+    {
+      "path": "config\\cofh\\thermaldynamics\\client.cfg",
+      "sha1": "54455E76AC4B532DDE8AD5116DCB74EEED1CC255"
+    },
+    {
+      "path": "config\\cofh\\thermaldynamics\\common.cfg",
+      "sha1": "D0F599872CC702DDE9C8E1EF2C6D5A9D9E04FA72"
+    },
+    {
+      "path": "config\\cofh\\thermaldynamics\\cover_blacklist.json",
+      "sha1": "C097CD948783D6B662E8865A13BE5FB66DF53958"
+    },
+    {
+      "path": "config\\cofh\\thermalexpansion\\client.cfg",
+      "sha1": "F01341BB3A76266699E0BADAC50077990F47BBF0"
+    },
+    {
+      "path": "config\\cofh\\thermalexpansion\\common.cfg",
+      "sha1": "6BF10A338468FBB88E2DF41D77CAE43B46A43628"
+    },
+    {
+      "path": "config\\cofh\\thermalexpansion\\florbs.cfg",
+      "sha1": "9C146ACF0E275992582BB646C3EB6E12D61B4946"
+    },
+    {
+      "path": "config\\cofh\\thermalexpansion\\morbs.cfg",
+      "sha1": "8B6BCE7FADB14D5CE46F9DE40EE3A6A844680C1F"
+    },
+    {
+      "path": "config\\cofh\\thermalfoundation\\client.cfg",
+      "sha1": "84491A26988E5699158D2F38DC4041C7D39F3D0F"
+    },
+    {
+      "path": "config\\cofh\\thermalfoundation\\common.cfg",
+      "sha1": "4F3CE04160DD58B6D46517C9E6B1A2C3B97FDB56"
+    },
+    {
+      "path": "config\\cofh\\thermalfoundation\\lexicon-whitelist.cfg",
+      "sha1": "9F365A6C4F0C2DFE6516AC0CA6F8CB48A55F0E5D"
+    },
+    {
+      "path": "config\\cofh\\world\\00_minecraft.json",
+      "sha1": "EF8C51709DE25F7EB9319B67BC766192767E4F36"
+    },
+    {
+      "path": "config\\cofh\\world\\01_thermalfoundation_ores.json",
+      "sha1": "E57DA64C6EAA656DF61EE7E4D5BB70A5854B8CA0"
+    },
+    {
+      "path": "config\\cofh\\world\\02_thermalfoundation_oil.json",
+      "sha1": "259341649AD7CD1F1A95C4EFE3014E8D5EEA371B"
+    },
+    {
+      "path": "config\\cofh\\world\\03_thermalfoundation_clathrates.json",
+      "sha1": "E52663C4D2A54A296010D46D2954989FC3A8BD8C"
+    },
+    {
+      "path": "config\\cofh\\world\\config.cfg",
+      "sha1": "B4B0BEF940A28C8E6FC084E524143C12B15E4893"
+    },
+    {
+      "path": "config\\computercraft.cfg",
+      "sha1": "CABD5BFDE321FE70EE6998BE0D333AF08983DCBC"
+    },
+    {
+      "path": "config\\cosmeticarmorreworked.cfg",
+      "sha1": "5489CBE4E762FDDFE250FEA8F01FD711D2BA0B90"
+    },
+    {
+      "path": "config\\ctm.cfg",
+      "sha1": "FD5B7D65E2A89F34D395BEEFBEA4990E8910827A"
+    },
+    {
+      "path": "config\\CustomMainMenu\\mainmenu.json",
+      "sha1": "8E508F12DD9130D88A272FF6BA928E1588CB1BA4"
+    },
+    {
+      "path": "config\\defaultoptions\\keybindings.txt",
+      "sha1": "92B79DA82D1114EFEB0EA751102A8CD8C3CD55E9"
+    },
+    {
+      "path": "config\\defaultoptions\\options.txt",
+      "sha1": "829D2BC414EB5023D849D826079829F20AF8C7B4"
+    },
+    {
+      "path": "config\\defaultoptions.cfg",
+      "sha1": "73FA5E0C0F24784FFDB21A25D0A0606B8B2BF2C1"
+    },
+    {
+      "path": "config\\dimdoors.cfg",
+      "sha1": "91477245DE2991693D454E00FAC7790AF898F5B4"
+    },
+    {
+      "path": "config\\ding.cfg",
+      "sha1": "0595119516CFF1370CBFBECA24F1B01804837072"
+    },
+    {
+      "path": "config\\dungeontactics.cfg",
+      "sha1": "E71899CEB0B70A2E4A6EFFFE3E203675DD7C7172"
+    },
+    {
+      "path": "config\\durabilityshow.cfg",
+      "sha1": "50A1E75DA856C827F3D472CDC6D36BEEA6A8687C"
+    },
+    {
+      "path": "config\\enchdesc.cfg",
+      "sha1": "8F49AE878431C0D5B7DED4B43B76E5037FE40396"
+    },
+    {
+      "path": "config\\endercore\\cropconfig.json",
+      "sha1": "236D4082F3DFA987024F61C6BB1760D8C74109AE"
+    },
+    {
+      "path": "config\\endercore\\endercore.cfg",
+      "sha1": "75A8CA65F8FB96BCBE3D8024DD6D127627ADCEE0"
+    },
+    {
+      "path": "config\\enderio\\EnderIO.cfg",
+      "sha1": "F4CCDA00A5C857CCAE282DFE1D2BCDB8063DA67E"
+    },
+    {
+      "path": "config\\enderio\\enderioconduits.cfg",
+      "sha1": "EA7CCC6F77300F630CF355927FDC9ED48C0D2989"
+    },
+    {
+      "path": "config\\enderio\\enderiointegrationforestry.cfg",
+      "sha1": "AED0308F4C59B0C483A228F5C27A70C0ECFD6351"
+    },
+    {
+      "path": "config\\enderio\\enderiomachines.cfg",
+      "sha1": "7B0EAA9ECC3E38DE60F97D7991C354D1B10A7AA8"
+    },
+    {
+      "path": "config\\enderio\\enderiopowertools.cfg",
+      "sha1": "863CE1C1859247550E2186AE79054891F881A8FF"
+    },
+    {
+      "path": "config\\enderio\\painter_paint_sources_core.xml",
+      "sha1": "948A375E6870E9A2E596BBDC33DBEC3535B7764E"
+    },
+    {
+      "path": "config\\enderio\\painter_paint_sources_user.xml",
+      "sha1": "78C578A1097BA37A4A7C603FD5123EFC328D5625"
+    },
+    {
+      "path": "config\\enderio\\recipes\\aliases.xml",
+      "sha1": "58D09C9A76FD8728BE9CAC26242BB0BBBF0052D1"
+    },
+    {
+      "path": "config\\enderio\\recipes\\balls.xml",
+      "sha1": "7FFEBAAC0F15C7AA4CEE3BFA4E440B261C93A375"
+    },
+    {
+      "path": "config\\enderio\\recipes\\base.xml",
+      "sha1": "2A3B3DC395B7B48DEE2BDD93E024BDFCD2F436F3"
+    },
+    {
+      "path": "config\\enderio\\recipes\\capacitor.xml",
+      "sha1": "47E103B02B21D5AB9DCF7EC490D734C8558EF802"
+    },
+    {
+      "path": "config\\enderio\\recipes\\capacitor_machines.xml",
+      "sha1": "5F9FABE5AE49A74D128FF4B2A369DBE127EFB458"
+    },
+    {
+      "path": "config\\enderio\\recipes\\conduits-applied-energistics.xml",
+      "sha1": "892DF2ED2B2AF846559A065E8B471ECD8E7081E4"
+    },
+    {
+      "path": "config\\enderio\\recipes\\conduits.xml",
+      "sha1": "CAABA8E52DE071D9ACBF22761DB558230772833B"
+    },
+    {
+      "path": "config\\enderio\\recipes\\enchanter.xml",
+      "sha1": "80B393D422CA92949F6D726D350E241A57412C87"
+    },
+    {
+      "path": "config\\enderio\\recipes\\items.xml",
+      "sha1": "B74E38426BE3CEDA44646A30B19F976B725022E7"
+    },
+    {
+      "path": "config\\enderio\\recipes\\machines.xml",
+      "sha1": "2E17089B1BB12ED5049D121563750737F6B66A12"
+    },
+    {
+      "path": "config\\enderio\\recipes\\materials.xml",
+      "sha1": "A0CA3B83B4A294817BE9E10C4098BE09CFB233DA"
+    },
+    {
+      "path": "config\\enderio\\recipes\\misc.xml",
+      "sha1": "7A00083808252C3744E0A694FC3C2087DEF2E0A6"
+    },
+    {
+      "path": "config\\enderio\\recipes\\powertools.xml",
+      "sha1": "DF9D2803FC53D55308A0C6C000B770BC285F3455"
+    },
+    {
+      "path": "config\\enderio\\recipes\\recipes.xsd",
+      "sha1": "5078DACB7CDFCD56352E0D6E4FF63436363CB931"
+    },
+    {
+      "path": "config\\enderio\\recipes\\sagmill.xml",
+      "sha1": "A07291689F911B6A4A8F0AB5558EA7CDC6A6F3C4"
+    },
+    {
+      "path": "config\\enderio\\recipes\\sagmill_metals.xml",
+      "sha1": "3EB2190D1C61C727B8AA664C5BE61DFA3D224846"
+    },
+    {
+      "path": "config\\enderio\\recipes\\sagmill_modded.xml",
+      "sha1": "FAE10AFFC7C48EF0C68E7989A4B141CA94F29316"
+    },
+    {
+      "path": "config\\enderio\\recipes\\sagmill_ores.xml",
+      "sha1": "37CAC2C40A11175D76AC55331694E55CB44E534A"
+    },
+    {
+      "path": "config\\enderio\\recipes\\sagmill_vanilla.xml",
+      "sha1": "0C0B18721E1ABE702FF1B15F44248A1CD466B096"
+    },
+    {
+      "path": "config\\enderio\\recipes\\sagmill_vanilla2modded.xml",
+      "sha1": "B7066E4EFB08AB822CFE1DCC534BEB6E57132D09"
+    },
+    {
+      "path": "config\\enderio\\recipes\\spawner.xml",
+      "sha1": "852C34B30E8FF51D478ADE31CEFBA4780B5B0672"
+    },
+    {
+      "path": "config\\enderio\\recipes\\user\\recipes.xsd",
+      "sha1": "5078DACB7CDFCD56352E0D6E4FF63436363CB931"
+    },
+    {
+      "path": "config\\enderio\\recipes\\user\\user_recipes.xml",
+      "sha1": "50339797309247DC06A3F251CE4DCB900B4EB1D8"
+    },
+    {
+      "path": "config\\enderio\\recipes\\vat.xml",
+      "sha1": "4C114AD73DB94C4FAE9B47D6B63999C8E768E25A"
+    },
+    {
+      "path": "config\\enderstorage.cfg",
+      "sha1": "1CC966BED4DBB5E1EB8241AFB2F9498A1988A768"
+    },
+    {
+      "path": "config\\energyconverters.cfg",
+      "sha1": "B5FCE25F176F3B437EC7BA0A461D6D9134D436D3"
+    },
+    {
+      "path": "config\\eplus.cfg",
+      "sha1": "E9C610FD090624F2684BB5D1A117A42284533493"
+    },
+    {
+      "path": "config\\extrautils2.cfg",
+      "sha1": "7F89B79E17812C728C823757C7B49B7123921675"
+    },
+    {
+      "path": "config\\FeaturedServers\\featuredservers.json",
+      "sha1": "DDEA84D7C759C69B7A881AF179B6E98A8C3AAED0"
+    },
+    {
+      "path": "config\\foamfix.cfg",
+      "sha1": "49591E9FB53B7FFAC5EF4058A63A7451CD48DC26"
+    },
+    {
+      "path": "config\\forge.cfg",
+      "sha1": "D3EC5D20CAD8481F326E45E78E7E0C06D2842F80"
+    },
+    {
+      "path": "config\\forgeChunkLoading.cfg",
+      "sha1": "77694A92F84B4B6F23C399826F9B107EBB9CD4A7"
+    },
+    {
+      "path": "config\\ftblib.cfg",
+      "sha1": "E35AD6D789BCEC87C5E5266E98986802D05D5603"
+    },
+    {
+      "path": "config\\Galacticraft\\chunkloading.conf",
+      "sha1": "5FA7D20C6D695D3E2424AB7C3A3A370D74B216E1"
+    },
+    {
+      "path": "config\\Galacticraft\\core.conf",
+      "sha1": "ABA2E9AE8EE8656FD904F7A2936AF3DBC7DF5552"
+    },
+    {
+      "path": "config\\Galacticraft\\miccore.conf",
+      "sha1": "A6405DD312ED8432525C4F7320367722693143A9"
+    },
+    {
+      "path": "config\\Galacticraft\\planets.conf",
+      "sha1": "AA54F0AF8644515FB1909001F82D54CFA83C58B5"
+    },
+    {
+      "path": "config\\Galacticraft\\power-GC3.conf",
+      "sha1": "6058925B46C57C1D1F982E93C8597035E8B58BCC"
+    },
+    {
+      "path": "config\\harvestcraft.cfg",
+      "sha1": "12E233C0DF327DF74D0F98BBD72BBEDB20450A30"
+    },
+    {
+      "path": "config\\harvestcraft_fruittree.cfg",
+      "sha1": "D2B0D749F7E37C90592D22B35102C9B600F568D4"
+    },
+    {
+      "path": "config\\hexxitgear.cfg",
+      "sha1": "C05B4380A6B78E826F18D2B6C182EA8314E190F6"
+    },
+    {
+      "path": "config\\ic2\\customCraftingRecipes.json",
+      "sha1": "BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F"
+    },
+    {
+      "path": "config\\ic2\\customMachineRecipes.json",
+      "sha1": "BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F"
+    },
+    {
+      "path": "config\\ic2\\ic2.cfg",
+      "sha1": "CC72F8BA06457E71A28F9B0361501B55122957B3"
+    },
+    {
+      "path": "config\\ic2\\ic2craftingRecipes.json",
+      "sha1": "5FAC16C4C8F6FD074FFD5E16E190F0010B8512E8"
+    },
+    {
+      "path": "config\\ic2\\ic2machineRecipes.json",
+      "sha1": "4B0084A65D55CE250E4EC08A53E10F33A413CCB6"
+    },
+    {
+      "path": "config\\ichunutil.cfg",
+      "sha1": "84307E8ACBBE2FD72F5C6DF2BB845FE61F92F28F"
+    },
+    {
+      "path": "config\\ichunutil_keybinds.cfg",
+      "sha1": "7F2AB3F5126EE8E59EC0D2F8BC883D6A2B5BC628"
+    },
+    {
+      "path": "config\\industrialforegoing.cfg",
+      "sha1": "2AE75597633049B037DBECD7CC3A935E9CC3AA74"
+    },
+    {
+      "path": "config\\infernalmobs.cfg",
+      "sha1": "13B80A8D28052380480F6458E2DC03C1E54E3494"
+    },
+    {
+      "path": "config\\inventorysorter.cfg",
+      "sha1": "33A59DC5A1AD6A5E80B391B019449866882C399B"
+    },
+    {
+      "path": "config\\ironchest.cfg",
+      "sha1": "E2044FA4D0C44868017D9B017F1399DA3A94BE6D"
+    },
+    {
+      "path": "config\\jei\\itemBlacklist.cfg",
+      "sha1": "7A96EBB5450C4B00E59AC8B224998A53ECFA756F"
+    },
+    {
+      "path": "config\\jei\\jei.cfg",
+      "sha1": "7871FFD26C6BA4DAED045B8A76327E5F743AD339"
+    },
+    {
+      "path": "config\\jei\\searchColors.cfg",
+      "sha1": "4E9F1C23EC50B0B2656E50C7BC085382BC73A8BF"
+    },
+    {
+      "path": "config\\jei\\worldSettings.cfg",
+      "sha1": "DE02728B11ACB55CB1D7CD6AF5D0C60EEA367DA1"
+    },
+    {
+      "path": "config\\jrftl.cfg",
+      "sha1": "AB8CEF1E4FF1117E79492DE83D4C145FD7E5FC4A"
+    },
+    {
+      "path": "config\\laser_drill_ores\\default_ores.json",
+      "sha1": "A6A659D4D119AB55BDC7EEFC9A23BC5C950BDF58"
+    },
+    {
+      "path": "config\\littletiles.cfg",
+      "sha1": "9F7A252549AE6C18A421B48684E640497F25276F"
+    },
+    {
+      "path": "config\\loadingprofiler.cfg",
+      "sha1": "0C272C474029E8CD0FA5FC28C417DE70BE1E43F7"
+    },
+    {
+      "path": "config\\MemoryTester\\Crash.txt",
+      "sha1": "AFB7BE39C0817DC3FDF25286D8725501199CEC57"
+    },
+    {
+      "path": "config\\MemoryTester\\General.txt",
+      "sha1": "0EA38E60C7B74FA67B19A7A9C50BA3E2A3C2CC52"
+    },
+    {
+      "path": "config\\MemoryTester\\Menu.txt",
+      "sha1": "C7F19EDEF5AAFE54D0E182954839D8A3132B3899"
+    },
+    {
+      "path": "config\\MemoryTester\\resources\\backgroundImage.png",
+      "sha1": "2184AEBBF39214B66E28DDA8DD8A117AB7536D67"
+    },
+    {
+      "path": "config\\MemoryTester\\resources\\buttonIcon.png",
+      "sha1": "8BB8411FD6DE86A3666EB73BF091CB9B30C2EEF6"
+    },
+    {
+      "path": "config\\MemoryTester\\resources\\windowIcon.png",
+      "sha1": "290C0AF734DDABD908B751DB9856E2FE563CFB9B"
+    },
+    {
+      "path": "config\\microblocks.cfg",
+      "sha1": "7E3285C11F27B3B996526FBFFC5DC6B6A8B7F553"
+    },
+    {
+      "path": "config\\multipart.cfg",
+      "sha1": "D7BA91C05C9FFEA33423312477FB4B6171A1539E"
+    },
+    {
+      "path": "config\\natura.cfg",
+      "sha1": "ECEE1979683EAA89C34C5F676217A0B2BB97D2FB"
+    },
+    {
+      "path": "config\\NaturaModules.cfg",
+      "sha1": "91B3BC52B42DCA7BA19E2AF9FAAD29FE5CF610E8"
+    },
+    {
+      "path": "config\\openblocks.cfg",
+      "sha1": "4350BDCE97E58B6DA53CBF1F8D5D01201133617C"
+    },
+    {
+      "path": "config\\openmods.cfg",
+      "sha1": "2DA8F92BC886772CE25D5E01309DBF04FE2675DB"
+    },
+    {
+      "path": "config\\OpenModsLibCore.json",
+      "sha1": "4FA2A4F4C27B1435B94CBA1A29BD3A12D4652F08"
+    },
+    {
+      "path": "config\\placebo.cfg",
+      "sha1": "089DE3CB729FEB09781797BE88A363ECB501BB9A"
+    },
+    {
+      "path": "config\\quacklib.conf",
+      "sha1": "26E48E359086FD7B51CB791B0908B3174B202E0E"
+    },
+    {
+      "path": "config\\quark.cfg",
+      "sha1": "F3E0233E91527DE0772DEB94C3FB8E131741380A"
+    },
+    {
+      "path": "config\\quickhomes.cfg",
+      "sha1": "14C939CD47D35832AC692B1360DE5167AB306324"
+    },
+    {
+      "path": "config\\quickteleports.cfg",
+      "sha1": "6A2A47BFCD3CFE446FD0D4DFCBAD4EE6F805E55D"
+    },
+    {
+      "path": "config\\railcraft\\blocks.cfg",
+      "sha1": "9BA1E3F8F201FDD491EA229429F6DE622CB3FA8A"
+    },
+    {
+      "path": "config\\railcraft\\client.cfg",
+      "sha1": "9FFBFFD7FF98972CD13D0211BE6B408132911592"
+    },
+    {
+      "path": "config\\railcraft\\entities.cfg",
+      "sha1": "B2858D3ACB445AAD288C933AF3D40CBFEA0C788F"
+    },
+    {
+      "path": "config\\railcraft\\items.cfg",
+      "sha1": "F66DFDAA94584AEB72EF5DD806C1889B7F7B9DC2"
+    },
+    {
+      "path": "config\\railcraft\\modules.cfg",
+      "sha1": "39F08599192AD08666E3611A91FB5EB68202759F"
+    },
+    {
+      "path": "config\\railcraft\\railcraft.cfg",
+      "sha1": "1CEAE92472DA54C71FC87EDE24EFAC58B8AE5937"
+    },
+    {
+      "path": "config\\randompatches.cfg",
+      "sha1": "35DF91254BA5EBAAF4E5A283A1FBEE50955A5BB9"
+    },
+    {
+      "path": "config\\reccomplex.cfg",
+      "sha1": "8BC3418AE9C4B16EC6475E00BF4FFE2C053E3C19"
+    },
+    {
+      "path": "config\\recipehandler.cfg",
+      "sha1": "B0396A9B278BC101C79D398A65ACE72D82C5EB8A"
+    },
+    {
+      "path": "config\\redwoods.cfg",
+      "sha1": "64706B1961C28999C1BDBD979CFEC80C09DD7078"
+    },
+    {
+      "path": "config\\Reforged\\reforged.cfg",
+      "sha1": "E6DA7673EAEC501EA09C810A1F9A38B8E7DF7FF4"
+    },
+    {
+      "path": "config\\simplyjetpacks-client.cfg",
+      "sha1": "B5338B5AC2A73FE63AF1D523AE9FDBE2CE538A70"
+    },
+    {
+      "path": "config\\simplyjetpacks.cfg",
+      "sha1": "0A92B1B6EC1A6444013F921A0AAFBCF760777CC6"
+    },
+    {
+      "path": "config\\smoothfont\\smoothfont.cfg",
+      "sha1": "4ED4350A6044FE98A855747AFE3142B39E988938"
+    },
+    {
+      "path": "config\\soulshardsrespawn\\multiblock.json",
+      "sha1": "502192423BA45713AF3402CF9547A0AEFB721A23"
+    },
+    {
+      "path": "config\\soulshardsrespawn\\soulshardsrespawn.cfg",
+      "sha1": "A9E7299EB531539630E6D706C5E339A2D0310CFA"
+    },
+    {
+      "path": "config\\soulshardsrespawn\\tiers.json",
+      "sha1": "32FB23C8E1456A7BB9B3A004D0BFC81A3AC1F95E"
+    },
+    {
+      "path": "config\\splash.properties",
+      "sha1": "64AC92FF6F1BD9EED612FC321DAFBF4588C1D7EB"
+    },
+    {
+      "path": "config\\tconstruct.cfg",
+      "sha1": "A3AB961DD79AD881180209FC38E5A742BA132379"
+    },
+    {
+      "path": "config\\teslacorelib.cfg",
+      "sha1": "02B6A2C0C20CD8D1C2898C90175AFA50928BBFE1"
+    },
+    {
+      "path": "config\\TinkerModules.cfg",
+      "sha1": "15C706E4409EDB7D6F7A221EF8A4D816ACB3901F"
+    },
+    {
+      "path": "config\\torohealthmod.cfg",
+      "sha1": "80E981F4D6EDF225D6048B9011A4FC3956B89C51"
+    },
+    {
+      "path": "config\\traverse\\traverse.cfg",
+      "sha1": "4C436AD09091FCB160EAF88392503C603496239B"
+    },
+    {
+      "path": "config\\treecapitator.cfg",
+      "sha1": "15A328F72B8E24C57AF5BA481DB04E8889216DD1"
+    },
+    {
+      "path": "config\\twilightforest.cfg",
+      "sha1": "A641FA9FC19C41CB43FD8A902D34007EE0F23407"
+    },
+    {
+      "path": "config\\unidict\\IntegrationModule.cfg",
+      "sha1": "7FFCEFB30AC53A38215A376AD87CCCBAF5C3F133"
+    },
+    {
+      "path": "config\\unidict\\jsonFormatGuide.txt",
+      "sha1": "347B79E703FDD7386BE4890FC24D4F0EB0FF92A4"
+    },
+    {
+      "path": "config\\unidict\\specificEntrySorting.json",
+      "sha1": "79F184D4FE19CD931E25EBD9D26892CE47EA3129"
+    },
+    {
+      "path": "config\\unidict\\UniDict.cfg",
+      "sha1": "C9B0020B6FA31D704BA9766E1C24B06957053B9C"
+    },
+    {
+      "path": "config\\vanillafix\\config_version",
+      "sha1": "356A192B7913B04C54574D18C28D46E6395428AB"
+    },
+    {
+      "path": "config\\vanillafix\\methods-stable_39.csv",
+      "sha1": "E5548A1760755F2B2BFD22C0395E92CE26E63380"
+    },
+    {
+      "path": "config\\vanillafix.cfg",
+      "sha1": "F2B53AF0D398CEB548529D82F591667AA160F1BA"
+    },
+    {
+      "path": "config\\waila\\theme\\dark.json",
+      "sha1": "201A8069DDE8BB83135CBD76D9F1F335E3D05A56"
+    },
+    {
+      "path": "config\\waila\\theme\\vanilla.json",
+      "sha1": "EF1AC81E709641D64B8A525CD7F60BECD86668B3"
+    },
+    {
+      "path": "config\\waila\\waila.cfg",
+      "sha1": "317CABD2CF6D54E89760B4C115C8A2F44975CD1D"
+    },
+    {
+      "path": "config\\xaerominimap.txt",
+      "sha1": "FA772B1001A9F7D4F5296301D867C868311CD4F7"
+    },
+    {
+      "path": "config\\xaeropatreon.txt",
+      "sha1": "80846D8687EBEAB12E5D0D3A6579675D900CEE5A"
+    },
+    {
+      "path": "config\\xaeroworldmap.txt",
+      "sha1": "0DA097462D118351FA7C2516B8E33E042D332CB0"
+    },
+    {
+      "path": "config\\xreliquary.cfg",
+      "sha1": "48C8C88D0D76B7ECD2D79E05F91D197A24A809F8"
+    },
+    {
+      "path": "config\\yabba.cfg",
+      "sha1": "E345E68F967AADA69DB0EBE8803B1152AE538C5E"
+    },
+    {
+      "path": "fontfiles\\Vision-Heavy.otf",
+      "sha1": "59572B215AA70454BF817F40F1C793523D23F26D"
+    },
+    {
+      "path": "icons\\WindowIcon.png",
+      "sha1": "FE70D9AFF2F999A8FD3926BC12690E7FC80FD4A2"
+    },
+    {
+      "path": "mods\\1.12.2\\ChickenASM-1.12-1.0.2.7.jar",
+      "sha1": "ED72A18E64A7EB628EC14832A7E02128904CC6F7"
+    },
+    {
+      "path": "mods\\animania-1.12.2-1.7.3.jar",
+      "sha1": "2E77203ED27EC1C08C1E23E55AE1D56F10E42526"
+    },
+    {
+      "path": "mods\\AppleSkin-mc1.12-1.0.9.jar",
+      "sha1": "23162A97CAB0ADB4BE2FC6D3937C613929D1D5C7"
+    },
+    {
+      "path": "mods\\appliedenergistics2-rv6-stable-7.jar",
+      "sha1": "E5C3C11EAFC5DAF73652A2DABE855E3759CAA8B5"
+    },
+    {
+      "path": "mods\\AttributeFix-1.12.2-1.0.10.jar",
+      "sha1": "319D224A7841F10E06F5C8127BAE1EC21A03155F"
+    },
+    {
+      "path": "mods\\AutoRegLib-1.3-32.jar",
+      "sha1": "267269CA7F1A71FB3BB35BDB8E61702A4DA6263E"
+    },
+    {
+      "path": "mods\\backpack-3.0.2-1.12.2_gamster_fixed.jar",
+      "sha1": "8C4063D9557D7B4F23C7C3F6DA6AE706398220D5"
+    },
+    {
+      "path": "mods\\BackTools-1.12.2-7.0.0.jar",
+      "sha1": "EF5A8BB0D9C9064D8C441CF422CC2A523C8082CC"
+    },
+    {
+      "path": "mods\\BasicNetherOres-1.12.2-1.0.4.0.jar",
+      "sha1": "545AB5AC76FC56E418891E81958B8456F5E58143"
+    },
+    {
+      "path": "mods\\BattleTowers-1.12.2_1.6.5.jar",
+      "sha1": "A67D73E74C211F0E958CAB6F0ACDEC73D7D6236E"
+    },
+    {
+      "path": "mods\\Baubles-1.12-1.5.2.jar",
+      "sha1": "CB13FCFB18A9CB0CBD825FD5FE8D813C77368549"
+    },
+    {
+      "path": "mods\\BiblioCraft[v2.4.5][MC1.12.2].jar",
+      "sha1": "74D9F70C5FEAD2C17054953FAE26AF8D9FB7FD84"
+    },
+    {
+      "path": "mods\\Bookshelf-1.12.2-2.3.590.jar",
+      "sha1": "83A1864DD78F48102609849DD36866D6CF32B907"
+    },
+    {
+      "path": "mods\\Botania+r1.10-362.jar",
+      "sha1": "5B211D9FAC633C1B40FC407A6F4A825C23C1B9D9"
+    },
+    {
+      "path": "mods\\bspkrsCore-universal-7.6.0.1.jar",
+      "sha1": "9AE9811F387A960381E5C82FAE2A7F79D0480A27"
+    },
+    {
+      "path": "mods\\buildcraft-all-7.99.24.4.jar",
+      "sha1": "906C29FE04019107E79B442B1D181246AAF814E6"
+    },
+    {
+      "path": "mods\\cc-tweaked-1.12.2-1.85.2.jar",
+      "sha1": "984B07762D8332A43C71B18AD99854B411C9F1D2"
+    },
+    {
+      "path": "mods\\ChestTransporter-1.12.2-2.8.8.jar",
+      "sha1": "50C48502302193AF990ED3C33B6E23E1F240CB1D"
+    },
+    {
+      "path": "mods\\Chisel-MC1.12.2-1.0.1.44.jar",
+      "sha1": "D9A74DDE6AAFADE73328DBF45BF7EC8ACA30E038"
+    },
+    {
+      "path": "mods\\chococraft_1.12.2-0.9.8.0.jar",
+      "sha1": "F0C9FA833367249D7ED818C05E890D204197818C"
+    },
+    {
+      "path": "mods\\CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "sha1": "B6A7E3B889C354216059A3BFAD298E30A1E46A2D"
+    },
+    {
+      "path": "mods\\CoFHCore-1.12.2-4.6.3.27-universal.jar",
+      "sha1": "4E498A51BF45AEAB25A05A3B2696855CC88401FB"
+    },
+    {
+      "path": "mods\\CoFHWorld-1.12.2-1.3.1.7-universal.jar",
+      "sha1": "A75AE7AA37444B9A2AD3639CD30882A216C4BDEA"
+    },
+    {
+      "path": "mods\\CosmeticArmorReworked-1.12.2-v4a.jar",
+      "sha1": "049366173E3CB62EC41B0E55EA44B8F3D181BEB2"
+    },
+    {
+      "path": "mods\\CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar",
+      "sha1": "868D96028427E39495F441E43E60A9B77225B5AD"
+    },
+    {
+      "path": "mods\\CraftTweaker2-1.12-4.1.20.jar",
+      "sha1": "5F0699D9DC850CE29FAE8329E4B7089A88CD1FB0"
+    },
+    {
+      "path": "mods\\CreativeCore_v1.9.74_mc1.12.2.jar",
+      "sha1": "2583BCD5E56EBE59FFA0744B1B0EA328A2621E5E"
+    },
+    {
+      "path": "mods\\CTM-MC1.12.2-1.0.1.30.jar",
+      "sha1": "D9133571636EC2C4C590DD69AC41EF813C63A8AB"
+    },
+    {
+      "path": "mods\\CustomMainMenu-MC1.12.2-2.0.8.jar",
+      "sha1": "A3A47798F735E26CC4FD24388A6C29D1E786AD52"
+    },
+    {
+      "path": "mods\\DefaultOptions_1.12.2-9.2.8.jar",
+      "sha1": "E3197FC44AA2F59897713A8889A5A56C0F8CCBF3"
+    },
+    {
+      "path": "mods\\DimensionalDoors-3.0.9-287.jar",
+      "sha1": "30C939F2305B862ED70B2144912BA25418430C36"
+    },
+    {
+      "path": "mods\\Ding-1.12.1-1.0.1.jar",
+      "sha1": "6EB8F0AC77131FF04B7FD3069A197EDB1887EB5C"
+    },
+    {
+      "path": "mods\\DungeonTactics-1.12.2-0.16.6.jar",
+      "sha1": "83FFDF1A8616112020FFD449E5D71F67787CC19F"
+    },
+    {
+      "path": "mods\\Durability+Show-1.12-5.0.0.jar",
+      "sha1": "2D612C5C61869265CA229836BF9F80BDBE7F2149"
+    },
+    {
+      "path": "mods\\EnchantingPlus-1.12.2-5.0.176.jar",
+      "sha1": "F5B6BD9DC5B23101D8180934A2B7063B8C886C09"
+    },
+    {
+      "path": "mods\\EnchantmentDescriptions-1.12.2-1.1.15.jar",
+      "sha1": "51BA50251C2821C8FE22A6918BAB8F87CB7A75C0"
+    },
+    {
+      "path": "mods\\EnderCore-1.12.2-0.5.73.jar",
+      "sha1": "81BC2AFE4BF0495C2A1C2588E3DB769BC66E75B2"
+    },
+    {
+      "path": "mods\\EnderIO-1.12.2-5.1.52.jar",
+      "sha1": "CD466C945442A10F21757F669EA8418E5B448674"
+    },
+    {
+      "path": "mods\\EnderStorage-1.12.2-2.4.6.137-universal.jar",
+      "sha1": "7A872BAF72B1DA038704056A0CF7BBCC40BFA4D6"
+    },
+    {
+      "path": "mods\\energyconverters_1.12.2-1.3.6.24.jar",
+      "sha1": "497399C252AEEC120B3CC9DCEDF0F8243A4E73A3"
+    },
+    {
+      "path": "mods\\extrautils2-1.12-1.9.9.jar",
+      "sha1": "9F9A217B23626CB338CF229054ED490D913610DC"
+    },
+    {
+      "path": "mods\\FeaturedServers-1.12-1.0.6.jar",
+      "sha1": "52B553E04E07E925E7C92F4E6CE60746DA5ED9D4"
+    },
+    {
+      "path": "mods\\Forgelin-1.8.4.jar",
+      "sha1": "7A87553FCB808A45D9C7E03F113B355AC7FD10D7"
+    },
+    {
+      "path": "mods\\ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+      "sha1": "3306EA22380BC9B6A0170B23FA0251085D5A6E25"
+    },
+    {
+      "path": "mods\\FTBLib-5.4.4.5.jar",
+      "sha1": "739DA870868234CD4D1EDD8F65089E6C68633711"
+    },
+    {
+      "path": "mods\\furniture-6.3.1-1.12.2.jar",
+      "sha1": "05FCC338D115BA09266AB2DA39027AE319EFBA18"
+    },
+    {
+      "path": "mods\\Galacticraft-Planets-1.12.2-4.0.2.238.jar",
+      "sha1": "B6F8D7CD0CA2CD52559F8EBCDDD447620209666D"
+    },
+    {
+      "path": "mods\\GalacticraftCore-1.12.2-4.0.2.238.jar",
+      "sha1": "E55C5D4172DFE176DAAC462C28878855733D1B1C"
+    },
+    {
+      "path": "mods\\HelpFixer-1.12.1-1.5.18.jar",
+      "sha1": "DB399136A8F16FC1B42F130D245E3F524835D5F0"
+    },
+    {
+      "path": "mods\\Hexxit+Gear-1.12.2-2.8.0.jar",
+      "sha1": "8168CE4C66D722F034B0BEBA4B98AD3058637300"
+    },
+    {
+      "path": "mods\\Hwyla-1.8.26-B41_1.12.2.jar",
+      "sha1": "7280D5C0DAB42436549BCEFC63FF64A1049E5501"
+    },
+    {
+      "path": "mods\\IC2Classic+1.12-1.5.4.5.jar",
+      "sha1": "E33F3994B7F279BBFF117185BE134FD0CF8F7BFF"
+    },
+    {
+      "path": "mods\\iChunUtil-1.12.2-7.2.2.jar",
+      "sha1": "2B53B0F9543C98ADB0B89CAA4DA954A477259367"
+    },
+    {
+      "path": "mods\\industrialforegoing-1.12.2-1.12.13-237.jar",
+      "sha1": "4F44934B392D7BF1713707A93B29006E98BD7CFF"
+    },
+    {
+      "path": "mods\\InfernalMobs-1.12.1.jar",
+      "sha1": "800388B4805F63EF3D8710CCD99F798F7AA68A8A"
+    },
+    {
+      "path": "mods\\inventorysorter-1.12.2-1.13.3+57.jar",
+      "sha1": "963C9943F0DF194C0484EF038F2F7A7684B2D0E2"
+    },
+    {
+      "path": "mods\\ironchest-1.12.2-7.0.72.847.jar",
+      "sha1": "ADC4C785A484C5D5A4AB9A29E1937FAEED4312DD"
+    },
+    {
+      "path": "mods\\IvToolkit-1.3.3-1.12.jar",
+      "sha1": "522E60B48721B558F6DEA1FDFA2B235162366649"
+    },
+    {
+      "path": "mods\\jei_1.12.2-4.15.0.291.jar",
+      "sha1": "B7CE5F00E9709E08E81C597DC2D7336F58B7FE8E"
+    },
+    {
+      "path": "mods\\JRFTL[1.12.2]-1.1.jar",
+      "sha1": "C60775CA1A67FF22D2BFC4A56D1643B7895B819C"
+    },
+    {
+      "path": "mods\\LagGoggles-FAT-1.12.2-4.9.jar",
+      "sha1": "2A2028552ABE0C54A6112E3CA900C1A67DDAF969"
+    },
+    {
+      "path": "mods\\LittleTiles_v1.5.0-pre180_mc1.12.2.jar",
+      "sha1": "7821178903A5CD10AF4134BC08704CF7942EF40E"
+    },
+    {
+      "path": "mods\\Mantle-1.12-1.3.3.55.jar",
+      "sha1": "A1E5D5C197DAE3E92637CAFB8CD996185191165B"
+    },
+    {
+      "path": "mods\\MCMultiPart-2.5.3.jar",
+      "sha1": "B32FB5EFB99DEDF207D3623E222EA67E20655FCC"
+    },
+    {
+      "path": "mods\\MicdoodleCore-1.12.2-4.0.2.238.jar",
+      "sha1": "77699AE1DCF3FD58D5327A946BB72F726B5541BC"
+    },
+    {
+      "path": "mods\\natura-1.12.2-4.3.2.69.jar",
+      "sha1": "1485D9F3378EAE092FB6BA690F1CB4484A1CE42C"
+    },
+    {
+      "path": "mods\\NoMoreRecipeConflict-0.13(1.12.2).jar",
+      "sha1": "B6EB46393D7B163C9704CEAEB42FA2B9115AB980"
+    },
+    {
+      "path": "mods\\OpenBlocks-1.12.2-1.8.1.jar",
+      "sha1": "6C231FF28E0C80025B0EC11F86CE9DE1E9D109DB"
+    },
+    {
+      "path": "mods\\OpenModsLib-1.12.2-0.12.2.jar",
+      "sha1": "210CC6B18B63AE0D3110B8E8ED843BC847627EB0"
+    },
+    {
+      "path": "mods\\OptiFine_1.12.2_HD_U_F5.jar",
+      "sha1": "84ADA0F48BCFB16C37C49283627597BB74D935F6"
+    },
+    {
+      "path": "mods\\Pam\u0027s+HarvestCraft+1.12.2zf.jar",
+      "sha1": "FFEB8369801E898C8A1598B37D124C251F40BA93"
+    },
+    {
+      "path": "mods\\Placebo-1.12.2-1.5.1.jar",
+      "sha1": "3D3283BDBC15B97F5045906C029D7B1835287BC6"
+    },
+    {
+      "path": "mods\\quacklib-2.2.5.jar",
+      "sha1": "14F0BB427F776338FD91902D17D77CD818BEA92E"
+    },
+    {
+      "path": "mods\\Quark-r1.6-177.jar",
+      "sha1": "3848E5BF228BAF74541A565DA01AC7179F0C4934"
+    },
+    {
+      "path": "mods\\QuickHomes-1.2.2.jar",
+      "sha1": "07308986ABB65A560A62C2DF2BCE7545ACBC252E"
+    },
+    {
+      "path": "mods\\quickteleports-1.1.0.jar",
+      "sha1": "BF6350F82BB1C00AA4FF66C62CB10A2D2D601CFD"
+    },
+    {
+      "path": "mods\\railcraft-12.0.0.jar",
+      "sha1": "EA2085A509B816BB9A3CDD79F2F44175B588737A"
+    },
+    {
+      "path": "mods\\randompatches-1.12.2-1.19.1.1.jar",
+      "sha1": "C8727ECBECA3D08B4F576C4491CCECAD42CEF5B1"
+    },
+    {
+      "path": "mods\\reauth-3.6.0.jar",
+      "sha1": "BE3DEDC6A808F13828373176D653D2E0BB629EEB"
+    },
+    {
+      "path": "mods\\RecurrentComplex-1.4.8.2.jar",
+      "sha1": "B9DFF4716409BD622B4FC160F2446A124DA5C3A2"
+    },
+    {
+      "path": "mods\\RedstoneArsenal-1.12.2-2.6.3.18-universal.jar",
+      "sha1": "8A8046494D114272F89F1E4CD02BC821558F2007"
+    },
+    {
+      "path": "mods\\RedstoneFlux-1.12-2.1.0.6-universal.jar",
+      "sha1": "ED67A4CE69C8831B7536B2623A857FEFC8257E62"
+    },
+    {
+      "path": "mods\\Redwoods-1.12-1.2.1.jar",
+      "sha1": "CB2D52A4141AA9430AECFE15351DD515070992BF"
+    },
+    {
+      "path": "mods\\Reforged-0.7.5-1.12+.jar",
+      "sha1": "7973EAD685CA2F8381EB49F5A3EAED1DD2EF817D"
+    },
+    {
+      "path": "mods\\Reliquary-1.12.2-1.3.4.796.jar",
+      "sha1": "70782D1B9BFA4E5FFC62827DAF4D82FCB5E4FDDF"
+    },
+    {
+      "path": "mods\\rswires-3.0.1.jar",
+      "sha1": "957260EC0353038540D3D499362AE834BB01283C"
+    },
+    {
+      "path": "mods\\SimplyJetpacks2-1.12.2-2.2.14.67.jar",
+      "sha1": "E4BB9E0257C1DC34BDF1B9841B5C32FBDB21BAE2"
+    },
+    {
+      "path": "mods\\SmoothFont-mc1.12.2-2.1.1.jar",
+      "sha1": "F36F77A324D32EACC3F2C187FD0E27A5066F8E31"
+    },
+    {
+      "path": "mods\\SoulShardsRespawn-1.12.2-1.1.1-13.jar",
+      "sha1": "C4FEF3655C01F47BF2F8C792569A221DB22E9554"
+    },
+    {
+      "path": "mods\\TConstruct-1.12.2-2.13.0.171.jar",
+      "sha1": "E27B77377AA9E9B8DBE7DCD33D01CF22A989112B"
+    },
+    {
+      "path": "mods\\tesla-core-lib-1.12.2-1.0.15.jar",
+      "sha1": "3E8B6133163F44644B7911027A986F4A2BF3C100"
+    },
+    {
+      "path": "mods\\ThermalDynamics-1.12.2-2.5.5.21-universal.jar",
+      "sha1": "614A98009F39FB204FE269FFC109DF77362F8314"
+    },
+    {
+      "path": "mods\\ThermalExpansion-1.12.2-5.5.4.43-universal.jar",
+      "sha1": "8544EA4B0E7C4A2D679DB83B28FCDFB4AF161102"
+    },
+    {
+      "path": "mods\\ThermalFoundation-1.12.2-2.6.3.27-universal.jar",
+      "sha1": "A0300B3F25DFDD9AA5C9FCC5D05A3E2A56CAD57C"
+    },
+    {
+      "path": "mods\\torohealth-1.12.2-11.jar",
+      "sha1": "6302C65F1C4FD28266D2C4EA33E12C8783E84C9B"
+    },
+    {
+      "path": "mods\\Traverse-1.12.2-1.6.0-69.jar",
+      "sha1": "B16AAFF09A6E77BA193E42F88F5D5BB8A85E063A"
+    },
+    {
+      "path": "mods\\TreeCapitator-client-1.43.0.jar",
+      "sha1": "D58EB72603D7D58AD5A5982DA8684FE2B9703BFB"
+    },
+    {
+      "path": "mods\\twilightforest-1.12.2-3.10.1013-universal.jar",
+      "sha1": "9A4AFA9C65BC13045D07823433FA6B25372BB481"
+    },
+    {
+      "path": "mods\\UniDict-1.12.2-2.9.3.jar",
+      "sha1": "27AD702D2CECDD26F005F4398B12E442B87630A1"
+    },
+    {
+      "path": "mods\\VanillaFix-1.0.10-99.jar",
+      "sha1": "F8181CD78A0EFE8C51D4F0CD46A1C83C373A1F7D"
+    },
+    {
+      "path": "mods\\WailaHarvestability-mc1.12-1.1.12.jar",
+      "sha1": "7E1ABC8DD61390285167284A5EB3BF0E57A52760"
+    },
+    {
+      "path": "mods\\WanionLib-1.12.2-2.4.jar",
+      "sha1": "8518861BF46A9EC99D89F2B138ED0790FB858071"
+    },
+    {
+      "path": "mods\\XaerosWorldMap_1.5.2_Forge_1.12.jar",
+      "sha1": "AB199CF3B46BD0E552EEB60D41DC61979DE7427D"
+    },
+    {
+      "path": "mods\\Xaeros_Minimap_1.19.1_Forge_1.12_gamster_fixed.jar",
+      "sha1": "1BB1E7ECB624D067CE0E1A14AA477C6A87227FCA"
+    },
+    {
+      "path": "mods\\YABBA-1.1.2.54.jar",
+      "sha1": "A55CC1892D54B37E3A6C6C59CBB6E3B18F2D3F00"
+    },
+    {
+      "path": "scripts\\Advanced Solar Panels.zs",
+      "sha1": "3817E6A2798EBBD58C318A37F8DD05AF6DD9D4F1"
+    },
+    {
+      "path": "scripts\\recipes.zs",
+      "sha1": "D976A5ABCB084FD54530031B987F3DEE3C9F8DF0"
+    },
+    {
+      "path": "structures\\active\\AbandonedBurnable.rcig",
+      "sha1": "0CCE3184DF7CADD1E6C664F2D60ADDE7DC5DCD76"
+    },
+    {
+      "path": "structures\\active\\AbandonedChest.rcig",
+      "sha1": "0E4529BB5C501B26C6DBE56EF1122E357E53C72D"
+    },
+    {
+      "path": "structures\\active\\AirShrine.rcig",
+      "sha1": "17CFBE98414679F43DAF8AFE7D5D87DD60214C67"
+    },
+    {
+      "path": "structures\\active\\CultArmory.rcig",
+      "sha1": "CEDA343096D3505AFCDEB285D61BA640B10D482F"
+    },
+    {
+      "path": "structures\\active\\CultTreasure.rcig",
+      "sha1": "74E890FEE249313E17E6002FB350B267E517D8A7"
+    },
+    {
+      "path": "structures\\active\\EarthShrine.rcig",
+      "sha1": "61BBBD6623F34ADD2B9EF28C33089699AA277F39"
+    },
+    {
+      "path": "structures\\active\\FireShrine.rcig",
+      "sha1": "B17ACCF0DED7C5B33CDCA84584F0627C4D38B050"
+    },
+    {
+      "path": "structures\\active\\ForestChest.rcig",
+      "sha1": "0641A9FA4FA8E92CEA48B56AE81E36A82017F93E"
+    },
+    {
+      "path": "structures\\active\\Holy.rcig",
+      "sha1": "E5B975B5EAE993E3DA8A9A4D086F048760C9292A"
+    },
+    {
+      "path": "structures\\active\\MesoStorageChest.rcig",
+      "sha1": "E0B37A6FFBAFAE53EA6ABF90B43D184FCCA78E80"
+    },
+    {
+      "path": "structures\\active\\PeacefulCrypt.rcig",
+      "sha1": "99C511BF5C1B18FA54EE9C6A72D0C6C4D4A4D770"
+    },
+    {
+      "path": "structures\\active\\PirateChest.rcig",
+      "sha1": "867CB7F11CD05BFAF4D42A49986C4E81F7475AC0"
+    },
+    {
+      "path": "structures\\active\\PyramidChest.rcig",
+      "sha1": "408E6BE55CE6C35FD317EEF09BBF66AD08829F81"
+    },
+    {
+      "path": "structures\\active\\PyramidGraveGoodsCheap.rcig",
+      "sha1": "5759121F0B3301ED33C57D498EBA074CE4A6E84E"
+    },
+    {
+      "path": "structures\\active\\TribalChest.rcig",
+      "sha1": "59155F20E0DA9FEEBBBB4A171D77174871F2470B"
+    },
+    {
+      "path": "structures\\active\\UnderwaterShrine.rcig",
+      "sha1": "9EE93F37A8F7FD39C1F7C80ABF15E8CD0AB78AFE"
+    },
+    {
+      "path": "structures\\active\\Unholy.rcig",
+      "sha1": "D56867CBBC7A64DA1830E0271DBD2B50E3C80DB3"
+    },
+    {
+      "path": "structures\\active\\village\\RichVillageHouse.rcig",
+      "sha1": "60F12DC82C188944DE0E7237CC162C26739D91FE"
+    },
+    {
+      "path": "structures\\active\\village\\VillageGuardTower.rcig",
+      "sha1": "FBE14B7240C185AB755E6F9F78638B13C4D38812"
+    },
+    {
+      "path": "structures\\active\\village\\VillageKitchen.rcig",
+      "sha1": "62D011AE984C2FCADC6B62F1481CBCC4841395E6"
+    },
+    {
+      "path": "structures\\active\\village\\VillageLibrary.rcig",
+      "sha1": "B672BAF39A9DDD54AB02F17526EB4201060B3297"
+    },
+    {
+      "path": "structures\\active\\village\\VillagePumpkinChandlery.rcig",
+      "sha1": "D9F8B641FE4965B1142A95CB8A6638DE7CA8CF75"
+    },
+    {
+      "path": "structures\\active\\village\\VillageTannery.rcig",
+      "sha1": "9B8AD2969A207DE94E3F4491D0DD18223C3A2E76"
+    },
+    {
+      "path": "structures\\active\\WheatFieldMill.rcig",
+      "sha1": "6F369B6C2CBD4337FAFE985071218BB806271C45"
+    },
+    {
+      "path": "structures\\active\\WheatFieldMillTools.rcig",
+      "sha1": "49CB772153FEFBA06787D904342513000702D70A"
+    },
+    {
+      "path": "structures\\active\\WoodStorage.rcig",
+      "sha1": "1F5FC538BA1EAC0625FC37C8EF6ADBE7124A12D8"
+    }
+  ]
+}

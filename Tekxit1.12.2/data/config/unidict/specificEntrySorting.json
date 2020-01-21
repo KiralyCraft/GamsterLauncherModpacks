@@ -1,0 +1,1278 @@
+[
+	{
+		"entryName" : "platePlatinum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearPlatinum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "orePlatinum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustPlatinum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetPlatinum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockPlatinum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotPlatinum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateTin",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearTin",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "oreTin",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustTin",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetTin",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockTin",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotTin",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateNickel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearNickel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "oreNickel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustNickel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetNickel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockNickel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotNickel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateInvar",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearInvar",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustInvar",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetInvar",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockInvar",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotInvar",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateSilver",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearSilver",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "oreSilver",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustSilver",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetSilver",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockSilver",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotSilver",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateSteel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearSteel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustSteel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetSteel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockSteel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotSteel",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateZinc",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "oreZinc",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "nuggetZinc",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "blockZinc",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "ingotZinc",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "plateElectrum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearElectrum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustElectrum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetElectrum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockElectrum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotElectrum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateIron",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearIron",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "oreIron",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustIron",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetIron",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockIron",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotIron",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustObsidian",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateAluminum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearAluminum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "oreAluminum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustAluminum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetAluminum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockAluminum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotAluminum",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateBronze",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearBronze",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustBronze",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetBronze",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockBronze",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotBronze",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateConstantan",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearConstantan",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustConstantan",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetConstantan",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockConstantan",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotConstantan",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateIridium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearIridium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "oreIridium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustIridium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetIridium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockIridium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotIridium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateBrass",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "gearBrass",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "nuggetBrass",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "blockBrass",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "ingotBrass",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"railcraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2"
+		]
+	},
+	{
+		"entryName" : "oreUranium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockUranium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotUranium",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustCoal",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustSulfur",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateLead",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearLead",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "oreLead",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustLead",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetLead",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockLead",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotLead",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"thermalfoundation",
+			"ic2",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateGold",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearGold",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "oreGold",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustGold",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetGold",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockGold",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotGold",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "plateCopper",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "gearCopper",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "oreCopper",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "dustCopper",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "nuggetCopper",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "blockCopper",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	},
+	{
+		"entryName" : "ingotCopper",
+		"modIdPriorityList" :
+		[
+			"minecraft",
+			"ic2",
+			"thermalfoundation",
+			"appliedenergistics2",
+			"railcraft"
+		]
+	}
+]

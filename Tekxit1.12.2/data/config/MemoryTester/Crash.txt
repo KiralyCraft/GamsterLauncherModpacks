@@ -1,0 +1,14 @@
+InfoHeader=The game will not start due to insufficient memory, the current memory amount is [AllocatedMemory]MB. />Font:Yu Gothic UI Light />FontType:normal />FontSize:30 />Color:0, 0, 0, 255
+
+InfoLine1=The minimum amount you can play with is 2500MB/2.5GB, but I would set the distance down to 4. />Font:Yu Gothic UI Light />FontType:normal />FontSize:30 />Color:0, 0, 0, 255
+
+InfoLine2=The recommended amount is 3500MB/3.5GB, but set it higher if you plan to turn up distance past 12. />Font:Yu Gothic UI Light />FontType:normal />FontSize:30 />Color:0, 0, 0, 255
+
+InfoFooter=If you are seeing this please install 64bit java, then go into Technic Launcher options and under Java Settings to set the amount. />Font:Yu Gothic UI Light />FontType:normal />FontSize:30 />Color:0, 0, 0, 255
+
+RedirectLink=https://www.reddit.com/r/Tekxit/comments/alnj34/tekxit_official_links/
+
+RedirectBgColor=255, 255, 255, 255
+
+BackgroundImageDir=resources/backgroundImage.png
+

@@ -1,0 +1,207 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "CultArmory",
+  "items": [
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ic2:itemarmorbronzehelmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 50.30833435058594,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 20.692365646362305,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dungeontactics:jewelled_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 10.335477828979492,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "hexxitgear:scale_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ic2:itemarmorbronzechestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 50.30833435058594,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 20.692365646362305,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dungeontactics:jewelled_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 10.335477828979492,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "hexxitgear:scale_chest",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ic2:itemarmorbronzelegs",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 48.38838577270508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 20.692365646362305,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dungeontactics:jewelled_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 10.897062301635742,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "hexxitgear:scale_legs",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ic2:itemarmorbronzeboots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 50.30833435058594,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 20.692365646362305,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dungeontactics:jewelled_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 9.797295570373535,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "hexxitgear:scale_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ic2:itemtoolbronzesword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 50.30833435058594,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:iron_sword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 20.692365646362305,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "dungeontactics:jewelled_sword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 10.335477828979492,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderio:item_dark_steel_sword",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}
