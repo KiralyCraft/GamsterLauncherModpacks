@@ -6,13 +6,13 @@
     },
     {
       "path": "Tekxit\\Tekxit.json",
-      "sha1": "16B4DC801F63A05B7A0C32BCBBFBFDABA7FA402C"
+      "sha1": "872772CE179E4365F8EF86BE6DE0D3E54AE6DEC3"
     }
   ],
   "libraries": [
     {
       "path": "net\\minecraftforge\\forge\\1.12.2-14.23.5.2847\\forge-1.12.2-14.23.5.2847.jar",
-      "sha1": "9D57AFB4542093C1402416589B7279DC4C27D15D"
+      "sha1": "9C5A9BCCB0A257E1A71E8EC225627E279A354381"
     }
   ],
   "data": [
@@ -206,7 +206,7 @@
     },
     {
       "path": "config\\CustomMainMenu\\mainmenu.json",
-      "sha1": "8E508F12DD9130D88A272FF6BA928E1588CB1BA4"
+      "sha1": "19561443555810F9A04BCE84F610A1D301C00D14"
     },
     {
       "path": "config\\defaultoptions\\keybindings.txt",
@@ -919,10 +919,6 @@
     {
       "path": "mods\\extrautils2-1.12-1.9.9.jar",
       "sha1": "9F9A217B23626CB338CF229054ED490D913610DC"
-    },
-    {
-      "path": "mods\\FeaturedServers-1.12-1.0.6.jar",
-      "sha1": "52B553E04E07E925E7C92F4E6CE60746DA5ED9D4"
     },
     {
       "path": "mods\\Forgelin-1.8.4.jar",
