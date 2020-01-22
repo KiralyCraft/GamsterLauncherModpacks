@@ -5,9 +5,9 @@
         {
             "image" : "menuassets:bg_menu.png",
             "posX" : -50,
-            "posY" : -50,
+            "posY" : -70,
             "width" : 100,
-            "height" : 160,
+            "height" : 180,
             "alignment" : "center"
         },
        
@@ -15,7 +15,7 @@
         {
             "image" : "menuassets:logo.png",
             "posX" : -75,
-            "posY" : -130,
+            "posY" : -150,
             "width" : 150,
             "height" : 89,
             "alignment" : "center"
@@ -24,6 +24,25 @@
    
     "buttons":
     {
+		"gamsterjoin":
+		{
+			"text" : "Join mc.gamster.org",
+            "posX" : -50,
+            "posY" : -70,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "center",
+            "texture" : "menuassets:btn.png",
+			imageWidth : 100,
+			imageHeight : 50,
+            "shadow" : false,
+			"action" : 
+			{
+				"type" : "connectToServer",
+				"ip" : "mc.gamster.org",
+				"serverName": "Gamster"
+			}
+		},
         "singleplayer":
         {
             "text" : "Singleplayer",
@@ -197,6 +216,14 @@
    
     "labels":
 	{
+		"modified":
+        {
+            "text" : "Version modified by KiralyCraft for Gamster.org <3",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
 		"thanks":
         {
             "text" : "Thank you for playing #username#.",
@@ -260,7 +287,7 @@
 		"splash-text":
         {
             "posX" : 75,
-            "posY" : -75,
+            "posY" : -95,
             "color" : -256,
             "alignment" : "center"
         }
