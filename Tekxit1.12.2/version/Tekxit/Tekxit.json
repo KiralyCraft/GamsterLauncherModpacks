@@ -11,7 +11,7 @@
   "libraries": [
     {
       "name": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
-      "url": "https://raw.githubusercontent.com/KiralyCraft/GamsterLauncherModpacks/master/TEKXIT1122"
+      "url": "https://raw.githubusercontent.com/KiralyCraft/GamsterLauncherModpacks/master/Tekxit1.12.2/libraries"
     },
     {
       "name": "net.minecraft:launchwrapper:1.12",
