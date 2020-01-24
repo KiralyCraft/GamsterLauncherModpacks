@@ -671,7 +671,7 @@
     }
   },
   "mainClass": "net.minecraft.launchwrapper.Launch",
-  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid 32267d16-18f3-466a-8d2a-8368306e89e9 --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type} --tweakClass net.labymod.vanillaforge.LabyModTweaker",
+  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type} --tweakClass net.labymod.vanillaforge.LabyModTweaker",
   "minimumLauncherVersion": 18,
   "releaseTime": "2017-09-18T08:39:46+00:00",
   "time": "2017-09-18T08:39:46+00:00",
