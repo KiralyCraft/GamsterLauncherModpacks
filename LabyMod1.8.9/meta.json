@@ -1,0 +1,24 @@
+{
+  "version": [
+    {
+      "path": "LabyMod-3-1.8.9\\LabyMod-3-1.8.9.jar",
+      "sha1": "7BB216D5635DC74098AB174686754E1C56CCB9B8"
+    },
+    {
+      "path": "LabyMod-3-1.8.9\\LabyMod-3-1.8.9.json",
+      "sha1": "D62B6231097F6EAFC093256A3FDB2A2C3EF824E0"
+    }
+  ],
+  "libraries": [
+    {
+      "path": "net\\labymod\\LabyMod\\3_1.8.9\\LabyMod-3_1.8.9.jar",
+      "sha1": "1A97F72152810A46CEA47522A610D6A5333C644B"
+    }
+  ],
+  "data": [
+    {
+      "path": "LabyMod\\addons-1.8\\hello.txt",
+      "sha1": "607473DC9632651A23870B4C24BD5AF34E735848"
+    }
+  ]
+}
