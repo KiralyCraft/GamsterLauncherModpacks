@@ -1,0 +1,28 @@
+{
+  "version": [
+    {
+      "path": "LabyMod-3-1.12.2\\LabyMod-3-1.12.2.jar",
+      "sha1": "17E62BA87DE1D5AB12FB34AED26477D6234A22EC"
+    },
+    {
+      "path": "LabyMod-3-1.12.2\\LabyMod-3-1.12.2.json",
+      "sha1": "7E1464538F6E660303D73427C72E531B0F455E15"
+    }
+  ],
+  "libraries": [
+    {
+      "path": "net\\labymod\\LabyMod\\3_1.12.2\\LabyMod-3_1.12.2.jar",
+      "sha1": "57DA2225CF1BCA75C214388B3921579B2C18B240"
+    }
+  ],
+  "data": [
+    {
+      "path": "LabyMod\\addons-1.12\\config\\WorldEditCUI.json",
+      "sha1": "20337EA71C366173153735A90FA4B2F8D261A701"
+    },
+    {
+      "path": "LabyMod\\addons-1.12\\WorldEditCUI.jar",
+      "sha1": "58C30723CA5C665F9435D3DAE5D616AB13818D1C"
+    }
+  ]
+}
