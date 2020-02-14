@@ -801,6 +801,10 @@
       "sha1": "CB13FCFB18A9CB0CBD825FD5FE8D813C77368549"
     },
     {
+      "path": "mods\\BetterFps-1.4.8.jar",
+      "sha1": "245235D5C67DAFF00EE658EE1F88AE8C3E4584B8"
+    },
+    {
       "path": "mods\\BiblioCraft[v2.4.5][MC1.12.2].jar",
       "sha1": "74D9F70C5FEAD2C17054953FAE26AF8D9FB7FD84"
     },
@@ -919,6 +923,10 @@
     {
       "path": "mods\\extrautils2-1.12-1.9.9.jar",
       "sha1": "9F9A217B23626CB338CF229054ED490D913610DC"
+    },
+    {
+      "path": "mods\\foamfix-0.10.10-1.12.2.jar",
+      "sha1": "BCB36EC39C39D6B97252D68F379DDEB20DE539EF"
     },
     {
       "path": "mods\\Forgelin-1.8.4.jar",
