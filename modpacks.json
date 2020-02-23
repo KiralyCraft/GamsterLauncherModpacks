@@ -11,6 +11,10 @@
 	{
       "title": "LabyMod",
       "mcversion": "1.8.9"
+    },
+	{
+      "title": "FTBRevelations",
+      "mcversion": "1.12.2"
     }
   ]
 }
