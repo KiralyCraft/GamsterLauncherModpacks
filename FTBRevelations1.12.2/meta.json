@@ -2833,6 +2833,10 @@
       "sha1": "35DEA7986CDCB4325DBA2F28456F9300BC456F7C"
     },
     {
+      "path": "config\\smoothfont\\smoothfont.cfg",
+      "sha1": "4ED4350A6044FE98A855747AFE3142B39E988938"
+    },
+    {
       "path": "config\\snad.cfg",
       "sha1": "B5F05D3B09CFFF843CC21E279509E8EBA3E71FDC"
     },
@@ -3027,6 +3031,10 @@
     {
       "path": "config\\yabba.cfg",
       "sha1": "9AA411A84C292DD06710901ADDCB9BE9F970BB8F"
+    },
+    {
+      "path": "fontfiles\\Vision-Heavy.otf",
+      "sha1": "59572B215AA70454BF817F40F1C793523D23F26D"
     },
     {
       "path": "mods\\1.12.2\\ChickenASM-1.12-1.0.2.7.jar",
