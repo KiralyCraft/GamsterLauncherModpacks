@@ -1746,7 +1746,7 @@
     },
     {
       "path": "config\\CustomMainMenu\\mainmenu.json",
-      "sha1": "E037948CDC5CBBDBD74D9665EE534EBEFE1321E5"
+      "sha1": "A5D323B4B8E45D84F63D61F64FD7D8EDFC3E6E6F"
     },
     {
       "path": "config\\cyclopscore.cfg",
@@ -3533,10 +3533,6 @@
       "sha1": "7BA3C0771B74AD45DC570BF1E892A9A19CC4D223"
     },
     {
-      "path": "mods\\minetogether-1.10.2-2.2.0-RC6.jar",
-      "sha1": "C3CBDE5403A103D706979D9D6D173BF426151F98"
-    },
-    {
       "path": "mods\\modnametooltip_1.12.2-1.10.1.jar",
       "sha1": "46E4E9AA1A443DE953088148FDCD3C7B9255D7CF"
     },
@@ -3599,6 +3595,10 @@
     {
       "path": "mods\\OpenModsLib-1.12.2-0.12.2.jar",
       "sha1": "210CC6B18B63AE0D3110B8E8ED843BC847627EB0"
+    },
+    {
+      "path": "mods\\OptiFine_1.12.2_HD_U_F5.jar",
+      "sha1": "84ADA0F48BCFB16C37C49283627597BB74D935F6"
     },
     {
       "path": "mods\\p455w0rdslib-1.12.2-2.2.156.jar",
@@ -3739,6 +3739,10 @@
     {
       "path": "mods\\SimplyJetpacks2-1.12.2-2.2.13.66.jar",
       "sha1": "880624518BBFBE6A101901FC3C6D442D33BC4CE8"
+    },
+    {
+      "path": "mods\\SmoothFont-mc1.12.2-2.1.1.jar",
+      "sha1": "F36F77A324D32EACC3F2C187FD0E27A5066F8E31"
     },
     {
       "path": "mods\\Snad-1.12.1-1.7.09.16a.jar",

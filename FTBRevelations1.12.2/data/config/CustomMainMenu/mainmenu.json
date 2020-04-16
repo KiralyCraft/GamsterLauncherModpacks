@@ -14,12 +14,31 @@
     
     "buttons":
     {
+		"gamsterjoin":
+        {
+            "text" : "Join mc.gamster.org",
+            "posX" : 0,
+            "posY" : -43,
+			"textOffsetX" : 0,
+            "width" : 98,
+            "height" : 14,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 10027008,
+			"alignment" : "left_center",
+			"texture" : "mainmenu:blankbutton.png",
+            "action" : 
+            {
+				"type" : "connectToServer",
+				"ip" : "mc.gamster.org",
+				"serverName": "Gamster"
+			}
+        },
         "singleplayer":
         {
             "text" : "Singleplayer",
             "posX" : 0,
             "posY" : -28,
-			"textOffsetX" : -10,
+			"textOffsetX" : 0,
             "width" : 98,
             "height" : 14,
             "normalTextColor" : -1,
@@ -37,7 +56,7 @@
             "text" : "Multiplayer",
             "posX" : 0,
             "posY" : -14,
-			"textOffsetX" : -14,
+			"textOffsetX" : 0,
             "width" : 98,
             "height" : 14,
             "normalTextColor" : -1,
@@ -55,7 +74,7 @@
             "text" : "Options",
             "posX" : 0,
             "posY" : 0,
-			"textOffsetX" : -23,
+			"textOffsetX" : 0,
             "width" : 98,
             "height" : 14,
             "normalTextColor" : -1,
@@ -73,7 +92,7 @@
             "text" : "Mods",
             "posX" : 0,
             "posY" : 14,
-			"textOffsetX" : -28,
+			"textOffsetX" : 0,
             "width" : 98,
             "height" : 14,
             "normalTextColor" : -1,
@@ -91,7 +110,7 @@
             "text" : "Language",
             "posX" : 0,
             "posY" : 28,
-			"textOffsetX" : -16,
+			"textOffsetX" : 0,
             "width" : 98,
             "height" : 14,
             "normalTextColor" : -1,
@@ -127,7 +146,7 @@
             "text" : "Changelogs",
             "posX" : -90,
             "posY" : -14,
-			"textOffsetX" : 5,
+			"textOffsetX" : 0,
             "width" : 98,
             "height" : 14,
             "normalTextColor" : -1,
@@ -145,7 +164,7 @@
             "text" : "Website",
             "posX" : -90,
             "posY" : 0,
-			"textOffsetX" : 15,
+			"textOffsetX" : 0,
             "width" : 98,
             "height" : 14,
             "normalTextColor" : -1,
@@ -163,7 +182,7 @@
             "text" : "Forums",
             "posX" : -90,
             "posY" : 14,
-			"textOffsetX" : 15,
+			"textOffsetX" : 0,
             "width" : 98,
             "height" : 14,
             "normalTextColor" : -1,
@@ -181,7 +200,7 @@
             "text" : "Quit",
             "posX" : -90,
             "posY" : 28,
-			"textOffsetX" : 22,
+			"textOffsetX" : 0,
             "width" : 98,
             "height" : 14,
             "normalTextColor" : -1,
@@ -211,11 +230,20 @@
     
     "labels":
     {
+		"kiraly":{
+			"text" : "Modified by KiralyCraft for Gamster.org <3",
+            "posX" : 2,
+            "posY" : -19,
+			"fontSize" : .75,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
 		"forge":{
 			"text" : "Forge #forgeversion#",
             "posX" : 2,
             "posY" : -13,
-			"fontSize" : .6,
+			"fontSize" : .75,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_left"
@@ -224,7 +252,7 @@
 			"text" : "#modsloaded# Mods Loaded",
             "posX" : 2,
             "posY" : -7,
-			"fontSize" : .6,
+			"fontSize" : .75,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_left"
@@ -233,7 +261,7 @@
 			"text" : "Minecraft 1.12.2",
             "posX" : -50,
             "posY" : -13,
-			"fontSize" : .6,
+			"fontSize" : .75,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_right"
@@ -243,7 +271,7 @@
             "text" : "Copyright Mojang AB",
             "posX" : -65,
             "posY" : -7,
-			"fontSize" : .6,
+			"fontSize" : .75,
             "color" : -1,
 			"hoverColor" : -1,
             "alignment" : "bottom_right"
