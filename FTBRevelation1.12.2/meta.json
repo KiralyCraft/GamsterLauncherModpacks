@@ -1,12 +1,12 @@
 {
   "version": [
     {
-      "path": "FTBRevelations\\FTBRevelations.jar",
+      "path": "FTBRevelation\\FTBRevelation.jar",
       "sha1": "46975E43CBCC23625094C0E6A9A76CEB449ECE92"
     },
     {
-      "path": "FTBRevelations\\FTBRevelations.json",
-      "sha1": "8F0345B50474AEBE37BD14C2A0800C82E270092B"
+      "path": "FTBRevelation\\FTBRevelation.json",
+      "sha1": "3F1188C7097910F081204587397CF7F6329CF9EF"
     }
   ],
   "libraries": [
