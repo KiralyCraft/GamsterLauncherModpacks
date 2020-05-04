@@ -210,11 +210,11 @@
     },
     {
       "path": "config\\defaultoptions\\keybindings.txt",
-      "sha1": "92B79DA82D1114EFEB0EA751102A8CD8C3CD55E9"
+      "sha1": "5BE952A9E784C444206C4E7C3B7400FF2D450B33"
     },
     {
       "path": "config\\defaultoptions\\options.txt",
-      "sha1": "829D2BC414EB5023D849D826079829F20AF8C7B4"
+      "sha1": "3C4D7252C3BCC0070D87F373146243E058BDA672"
     },
     {
       "path": "config\\defaultoptions.cfg",
