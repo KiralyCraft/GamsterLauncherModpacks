@@ -1,0 +1,19 @@
+{
+  "version": [
+    {
+      "path": "LabyMod-3-1.16.5.jar",
+      "sha1": "FF03CEB10A5632D8C0A28D90EBC868ADA63A9470"
+    },
+    {
+      "path": "LabyMod-3-1.16.5.json",
+      "sha1": "45985B8EBC6159549A54DC8DD4C587DBDD3FE0EA"
+    }
+  ],
+  "libraries": [
+    {
+      "path": "LabyMod-3-1.16.5.jar",
+      "sha1": "FF03CEB10A5632D8C0A28D90EBC868ADA63A9470"
+    }
+  ],
+  "data": []
+}
