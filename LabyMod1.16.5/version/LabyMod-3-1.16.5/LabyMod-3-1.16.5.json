@@ -1651,22 +1651,8 @@
       "name": "net.minecraft:launchwrapper:1.12"
     },
     {
-      "name": "net.labymod:LabyMod:3_1.16.5"
-    },
-    {
       "name": "net.labymod:LabyMod:3_1.16.5",
 	  "url":"https://raw.githubusercontent.com/KiralyCraft/GamsterLauncherModpacks/master/LabyMod1.16.5/libraries"
     }
-  ],
-  "mainClass": "net.minecraft.launchwrapper.Launch",
-  "minimumLauncherVersion": 14,
-  "assets": "1.16",
-  "assetIndex": {
-    "totalSize": 114708537,
-    "id": "1.16",
-    "known": true,
-    "url": "https://launchermeta.mojang.com/mc/assets/1.16/e264980ad255aad2174cbe4d674c102474ae5202/1.16.json",
-    "sha1": "e264980ad255aad2174cbe4d674c102474ae5202",
-    "size": 94650
-  }
+  ]
 }
