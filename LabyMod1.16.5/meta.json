@@ -1,18 +1,18 @@
 {
   "version": [
     {
-      "path": "LabyMod-3-1.16.5.jar",
+      "path": "LabyMod-3-1.16.5\\LabyMod-3-1.16.5.jar",
       "sha1": "FF03CEB10A5632D8C0A28D90EBC868ADA63A9470"
     },
     {
-      "path": "LabyMod-3-1.16.5.json",
-      "sha1": "45985B8EBC6159549A54DC8DD4C587DBDD3FE0EA"
+      "path": "LabyMod-3-1.16.5\\LabyMod-3-1.16.5.json",
+      "sha1": "7D62769B794C9286E849AF7434F64B80CA790C05"
     }
   ],
   "libraries": [
     {
-      "path": "LabyMod-3-1.16.5.jar",
-      "sha1": "FF03CEB10A5632D8C0A28D90EBC868ADA63A9470"
+      "path": "net\\labymod\\LabyMod\\3_1.16.5\\LabyMod-3_1.16.5.jar",
+      "sha1": "556004917A0AFE3D1A0373CCF425830EC5B387C6"
     }
   ],
   "data": []
